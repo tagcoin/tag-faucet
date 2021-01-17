@@ -1,7 +1,7 @@
 {
   "name": "tag-network-testnet-faucet",
   "version": "1.0.1",
-  "description": "TAG Network Testnet faucet",
+  "description": "TAG  Network Testnet Testnet faucet",
   "main": "index.js",
   "scripts": {
     "start": "npm run sass && npm run coffee && node index.js",
