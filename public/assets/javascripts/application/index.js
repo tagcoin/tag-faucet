@@ -22,7 +22,7 @@ $(function() {
 			$("#receiver").val('');
 			loader.addClass("hidden");
 			swal("Success",
-			  `1000 TAG has been successfully transferred to ${receiver}`,
+			  `1,000 TAG has been successfully transferred to ${receiver}`,
 			  "success"
 			);
 		}).fail(function(err) {
